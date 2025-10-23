@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Karen Molina
 
-### **Bienvenida a mi Espacio de Aprendizaje en GitHub**
+### **Bienvenid@ a mi Espacio de Aprendizaje en GitHub**
 
 ¡Hola a todos! 👋 Este es mi perfil de GitHub. Lo utilizo como mi portafolio digital y cuaderno de notas para la **Carrera de Ingeniería de Software**. Aquí almaceno mis proyectos, tareas y ejemplos de código que realizo en la universidad.
 
